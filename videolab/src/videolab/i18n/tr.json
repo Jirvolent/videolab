@@ -1,0 +1,17 @@
+{
+ "app.title": "VideoLab",
+ "menu.file": "Dosya", "menu.edit": "Düzenle", "menu.tools": "Araçlar",
+ "act.import": "Medya İçe Aktar…", "act.save": "Kaydet", "act.save_as": "Farklı Kaydet…", "act.open": "Proje Aç…",
+ "act.new": "Yeni Proje", "act.export": "Dışa Aktar…", "act.quit": "Çıkış",
+ "act.undo": "Geri Al", "act.redo": "İleri Al", "act.split": "Bölme (S)", "act.delete": "Sil (Del)",
+ "act.zoom_in": "Yakınlaştır", "act.zoom_out": "Uzaklaştır",
+ "panel.media": "Medya", "panel.props": "Özellikler", "panel.silence": "Sessizlik Temizleme",
+ "silence.min": "Minimum sessizlik (sn)", "silence.thr": "Eşik (dB)", "silence.ratio": "Kesilecek oran (%)",
+ "silence.before": "Konuşma öncesi payı (sn)", "silence.after": "Konuşma sonrası payı (sn)",
+ "silence.detect": "Sessizlikleri Algıla", "silence.apply": "Seçilenleri Kes", "silence.none": "Sessizlik bulunamadı",
+ "status.ready": "Hazır", "status.analyzing": "Ses analiz ediliyor…", "status.exporting": "Dışa aktarılıyor…",
+ "status.done": "Tamamlandı", "status.cancel": "İptal", "status.error": "Hata: {msg}",
+ "dlg.media_filter": "Medya (*.mp4 *.mov *.mkv *.avi *.webm *.mp3 *.wav *.m4a);;Tümü (*)",
+ "dlg.project_filter": "VideoLab Projesi (*.vlab)", "dlg.export_filter": "MP4 (*.mp4);;MOV (*.mov);;MKV (*.mkv)",
+ "hint.drop": "Medya dosyalarını buraya sürükleyin"
+}
