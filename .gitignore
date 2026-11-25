@@ -1,0 +1,15 @@
+*.autosave
+*.db
+*.egg-info/
+*.pyc
+*.spec
+*.tmp
+.DS_Store
+.idea/
+.pytest_cache/
+.venv/
+.vscode/
+__pycache__/
+build/
+dist/
+models/
